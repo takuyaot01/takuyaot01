@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takuyaot01
 - 🕊️ [Twitter](https://twitter.com/takuyaot01)
-- 📚 [zenn](https://zenn.dev/takuyaot)
+- 📚 [Zenn](https://zenn.dev/takuyaot)
 - 🎁 [SlideShare](https://www.slideshare.net/takuyaot/presentations)
 - 📫 [LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
 
