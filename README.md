@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @takuyaot01
 - 🕊️ [Twitter](https://twitter.com/takuyaot01)
-- 🌱 [zenn](https://zenn.dev/takuyaot)
-- 💞️ I’m looking to collaborate on ...
+- 📚 [zenn](https://zenn.dev/takuyaot)
+- 🎁 [SlideShare](https://www.slideshare.net/takuyaot/presentations)
 - 📫 How to reach me ...
 
 <!---
