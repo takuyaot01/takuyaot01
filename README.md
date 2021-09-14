@@ -2,7 +2,7 @@
 - 🕊️ [Twitter](https://twitter.com/takuyaot01)
 - 📚 [zenn](https://zenn.dev/takuyaot)
 - 🎁 [SlideShare](https://www.slideshare.net/takuyaot/presentations)
-- 📫 How to reach me ...
+- 📫 [LinkedIn](https://www.linkedin.com/in/takuya-ohta/)
 
 <!---
 takuyaot01/takuyaot01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
