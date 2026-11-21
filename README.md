@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://takuyaot01.github.io/">Website</a> &nbsp;·&nbsp;
+  <a href="https://x.com/takuyaot01">X</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/takuya-ohta/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://zenn.dev/takuyaot">Zenn</a> &nbsp;·&nbsp;
   <a href="https://www.docswell.com/user/takuyaot">ドクセル</a> &nbsp;·&nbsp;
-  <a href="https://x.com/takuyaot01">X</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/takuya-ohta/">LinkedIn</a>
+  <a href="https://takuyaot01.github.io/">Website</a>
 </p>
 
 ## About
@@ -23,7 +23,7 @@ Windows・Intune・Microsoft Entra ID を通じて、Endpoint (端末管理) や
 
 ## Explore
 
-| ✍️ Articles | 🎤 Slides | 📚 Resources |
-| --- | --- | --- |
-| [Zenn](https://zenn.dev/takuyaot) | [ドクセル](https://www.docswell.com/user/takuyaot) | [Website](https://takuyaot01.github.io/) |
-| 技術の仕組みや使い方を、読みやすい記事に。 | 登壇資料を公開しています。[SlideShare の資料](https://www.slideshare.net/takuyaot/presentations)もこちらから。 | 技術資料や構築ガイド、関連リンクはこちらから。 |
+| 💬 X | ✍️ Zenn | 🎤 ドクセル | 📚 Website |
+| --- | --- | --- | --- |
+| [X](https://x.com/takuyaot01) | [Zenn](https://zenn.dev/takuyaot) | [ドクセル](https://www.docswell.com/user/takuyaot) | [Website](https://takuyaot01.github.io/) |
+| 投稿やお知らせはこちら。 | 技術の仕組みや使い方を、読みやすい記事に。 | 登壇資料を公開しています。[SlideShare の資料](https://www.slideshare.net/takuyaot/presentations)もこちらから。 | 技術資料や構築ガイド、関連リンクはこちらから。 |
