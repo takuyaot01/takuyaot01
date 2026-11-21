@@ -19,8 +19,6 @@ AI・Security・Cloud・OS を軸に、Microsoft 365・Azure・Windows の技術
 
 Windows・Intune・Microsoft Entra ID を通じて、Endpoint (端末管理) や Identity (ID・認証) の活用も紹介しています。
 
-**資格** : CISSP / 認定ホワイトハッカー
-
 ## Explore
 
 | 💬 X | ✍️ Zenn | 🎤 ドクセル | 📚 Website |
