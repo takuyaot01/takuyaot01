@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>技術を、わかりやすい資料と使えるツールに。</strong><br>
-  Microsoft 365 · Windows · Copilot
+  AI · Security · Windows · Microsoft 365 · Azure
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 **Sr Technical Specialist @ Microsoft**
 
-Microsoft 365・Windows・Azure を中心に、インフラとセキュリティの技術情報を資料・スライド・記事でわかりやすく届けています。
+AI・Security・Windows・Microsoft 365・Azure を中心に、技術情報を資料・スライド・記事でわかりやすく届けています。
 
 最近は、Copilot を活用した日本語の資料づくりや、ドキュメントを整えるスキルづくりにも取り組んでいます。
 
