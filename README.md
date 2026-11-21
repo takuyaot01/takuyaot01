@@ -4,7 +4,8 @@
 
 <p align="center">
   <strong>技術を、わかりやすい資料と使えるツールに。</strong><br>
-  AI · Security · Windows · Microsoft 365 · Azure
+  AI · Security · Cloud · OS<br>
+  Microsoft 365 · Azure · Windows
 </p>
 
 <p align="center">
@@ -19,7 +20,9 @@
 
 **Sr Technical Specialist @ Microsoft**
 
-AI・Security・Windows・Microsoft 365・Azure を中心に、技術情報を資料・スライド・記事でわかりやすく届けています。
+AI・Security・Cloud・OS を軸に、Microsoft 365・Azure・Windows の技術情報を資料・スライド・記事でわかりやすく届けています。
+
+Windows・Intune・Microsoft Entra ID を通じて、Endpoint (端末管理) や Identity (ID・認証) の活用も紹介しています。
 
 最近は、Copilot を活用した日本語の資料づくりや、ドキュメントを整えるスキルづくりにも取り組んでいます。
 
