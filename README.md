@@ -17,8 +17,6 @@
 
 AI・Security・Cloud・OS を軸に、Microsoft 365・Azure・Windows の技術情報を資料・スライド・記事でわかりやすく届けています。
 
-Windows・Intune・Microsoft Entra ID を通じて、Endpoint (端末管理) や Identity (ID・認証) の活用も紹介しています。
-
 ## Explore
 
 | 💬 X | ✍️ Zenn | 🎤 ドクセル | 📚 Website |
