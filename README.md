@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Takuya Ohta — Make tech clear." width="960">
-</p>
-
-<p align="center">
-  <strong>技術を、わかりやすい資料と使えるツールに。</strong><br>
   AI · Security · Cloud · OS<br>
   Microsoft 365 · Azure · Windows
 </p>
