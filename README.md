@@ -19,8 +19,6 @@ AI・Security・Cloud・OS を軸に、Microsoft 365・Azure・Windows の技術
 
 Windows・Intune・Microsoft Entra ID を通じて、Endpoint (端末管理) や Identity (ID・認証) の活用も紹介しています。
 
-最近は、Copilot を活用した日本語の資料づくりや、ドキュメントを整えるスキルづくりにも取り組んでいます。
-
 **資格** : CISSP / 認定ホワイトハッカー
 
 ## Explore
